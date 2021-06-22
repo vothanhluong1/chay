@@ -59,7 +59,8 @@ a
 }
 .headed
 {
-    background-image: url("/image/slider-psy-1.jpg");
+    background-image: url("../image/slider-psy-1.jpg");   
+   
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 200px;
@@ -171,7 +172,7 @@ a
 }
 .body-mid
 {
-    background-image: url("/image/beclinic_psy_bg-1.jpg");
+    background-image: url("../image/beclinic_psy_bg-1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px    
@@ -223,7 +224,7 @@ a
 
 .body-last
 {
-    background-image: url("/image/beclinic_psy_bg-04.jpg");
+    background-image: url("../image/beclinic_psy_bg-04.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -280,7 +281,7 @@ a
 }
 .bn-mid
 {
-    background-image: url("/image/beclinic_psy_bg-02.jpg");
+    background-image: url("../image/beclinic_psy_bg-02.jpg");
     
 }
 .bn-mid h2
@@ -296,7 +297,7 @@ a
 }
 .bn-last
 {
-    background-image: url("/image/beclinic_psy_bg-03.jpg");
+    background-image: url("../image/beclinic_psy_bg-03.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     
